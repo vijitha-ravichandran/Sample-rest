@@ -1,0 +1,11 @@
+
+1618814955808,1641,HTTP Request POST,200,OK,Sampler REST 1-3,text,true,,462,327,5,5,https://petstore.swagger.io/v2/store/order,1636,0,1318
+1618814956006,1497,HTTP Request POST,200,OK,Sampler REST 1-4,text,true,,462,327,5,5,https://petstore.swagger.io/v2/store/order,1454,0,1166
+1618814955608,1946,HTTP Request POST,200,OK,Sampler REST 1-2,text,true,,462,327,5,5,https://petstore.swagger.io/v2/store/order,1935,0,1608
+1618814955411,2186,HTTP Request POST,200,OK,Sampler REST 1-1,text,true,,462,327,5,5,https://petstore.swagger.io/v2/store/order,2168,0,1856
+1618814956207,1403,HTTP Request POST,200,OK,Sampler REST 1-5,text,true,,462,327,5,5,https://petstore.swagger.io/v2/store/order,1403,0,1110
+1618814957452,275,HTTP Request GET 1,200,OK,Sampler REST 1-3,text,true,,429,272,5,5,https://petstore.swagger.io/v2/store/inventory,274,0,0
+1618814957505,284,HTTP Request GET 1,200,OK,Sampler REST 1-4,text,true,,429,272,4,4,https://petstore.swagger.io/v2/store/inventory,282,0,0
+1618814957555,281,HTTP Request GET 1,200,OK,Sampler REST 1-2,text,true,,429,272,3,3,https://petstore.swagger.io/v2/store/inventory,279,0,0
+1618814957598,346,HTTP Request GET 1,200,OK,Sampler REST 1-1,text,true,,429,272,2,2,https://petstore.swagger.io/v2/store/inventory,290,0,0
+1618814957611,333,HTTP Request GET 1,200,OK,Sampler REST 1-5,text,true,,429,272,2,2,https://petstore.swagger.io/v2/store/inventory,332,0,0
